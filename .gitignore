@@ -1,0 +1,9 @@
+data
+.vscode
+.ipynb_checkpoints
+google/credentials.json
+google/token.json
+suicede_eda
+*.csv
+*.txt
+graphs
